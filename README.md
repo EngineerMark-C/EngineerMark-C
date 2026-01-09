@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mark
-- Welcome to my [blog](https://www.engmarkc.com)!
+- Welcome to my [blog](https://www.engmarkc.com/about)!
 - 👀 I’m interested in ......
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything
